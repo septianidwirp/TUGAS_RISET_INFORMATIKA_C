@@ -24,7 +24,7 @@ Tinjauan Pustaka :
      mengotomatisasi proses pelacakan kehadiran, yang menghasilkan manajemen kehadiran yang lebih andal dan efisien.
 
 2.   Penelitian sebelumnya dilakukan oleh B. Kocacinar, B. Tas, F. P. Akbulut, C. Catal dan D. Mishra pada tahun 2022[2]. Para peneliti memperkenalkan sistem pengenalan     
-     wajah berbasis seluler yang ringan dan real-time menggunakan teknologi CNN, yang dapat mendeteksi dan memverifikasi individu yang tidak mengenakan masker atau 
+     wajah berbasi sseluler yang ringan dan real-time menggunakan teknologi CNN, yang dapat mendeteksi dan memverifikasi individu yang tidak mengenakan masker atau 
      mengenakannya dengan tidak benar. Sistem ini mencapai tingkat akurasi validasi yang tinggi dan unggul dibandingkan dengan pendekatan lain yang ada. Selain itu, 
      diperkenalkan aplikasi seluler bernama MadFaRe yang dikembangkan untuk mendeteksi penggunaan masker yang tidak benar secara real-time. Studi ini membahas berbagai 
      model dan metode untuk mendeteksi dan mengenali wajah yang mengenakan masker, serta pra-pemrosesan gambar wajah dan pembangunan model deep learning yang ringan. Sistem 
