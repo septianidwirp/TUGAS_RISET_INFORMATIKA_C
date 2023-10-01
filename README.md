@@ -27,7 +27,6 @@ Tinjauan Pustaka :
      tinjauan komprehensif terhadap kertas penelitian terkait deteksi objek dan pengenalan wajah menggunakan metode deep learning.
 
 
-                                                                                   Daftar Pustaka
    [1]  X. -F. Xu, L. Zhang, C. -D. Duan and Y. Lu, "Research on Inception Module Incorporated Siamese Convolutional Neural Networks to Realize Face Recognition," in IEEE 
         Access, vol. 8, pp. 12168-12178, 2020, doi: 10.1109/ACCESS.2019.2963211.
    [2]  B. Kocacinar, B. Tas, F. P. Akbulut, C. Catal and D. Mishra, "A Real-Time CNN-Based Lightweight Mobile Masked Face Recognition System," in IEEE Access, vol. 10, pp. 
