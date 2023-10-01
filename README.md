@@ -1,6 +1,7 @@
 # Tugas1_research
 
 Judul Topik : Pengembangan Sistem Live Attendance dengan Teknologi Pengenalan Wajah menggunakan CNN di PT.Setia Kawan Makmur Sejahtera Tulungagung
+
 Jurnal Pendukung :
 - Jurnal 1 : https://ieeexplore.ieee.org/document/8946634
 - Jurnal 2 : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9795021
