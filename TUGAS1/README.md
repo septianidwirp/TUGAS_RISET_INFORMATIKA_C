@@ -12,10 +12,10 @@ Dalam konteks era teknologi informasi modern, manajemen kehadiran menjadi krusia
 
 Research Question :
 
-1. Bagaimana merancang dan mengembangkan sistem live attendance di PT. Setia Kawan Makmur Sejahtera?
+1. Bagaimana merancang dan mengembangkan sistem live attendance?
 2. Bagaimana menerapkan teknologi pengenalan wajah menggunakan Convolutional Neural Networks (CNN) serta penggunaan framework tensorflow pada perancangan sistem live attandance untuk penenalan wajah?
 3. Bagaimana mengukur tingkat akurasi dan keandalan pengenalan wajah dalam konteks sistem live attendance?
-4. Bagaimana pengaruh pengembangan sistem live attendance dengan teknologi pengenalan wajah terhadap efisiensi dan produktivitas PT. Setia Kawan Makmur Sejahtera?
+4. Bagaimana pengaruh pengembangan sistem live attendance dengan teknologi pengenalan wajah terhadap efisiensi dan produktivitas?
 
 Penelitian Terdahulu:
 
